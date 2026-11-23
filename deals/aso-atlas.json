@@ -1,0 +1,15 @@
+{
+  "name": "ASO Atlas",
+  "url": "https://asoatlas.com/#pricing",
+  "platforms": ["macOS"],
+  "category": "developer",
+  "description": "App Store keyword research and rank tracking for iOS, Mac and Google Play apps: popularity, difficulty, competitors and daily ranks.",
+  "discount": "30% off first year",
+  "code": "BLACKWEEK30",
+  "prices": [{ "plan": "Yearly (first year)", "before": 100, "after": 70 }],
+  "terms": "Yearly plan, first year; renews at $100/year. Also applied automatically at checkout, no code needed.",
+  "starts": "2026-11-23",
+  "ends": "2026-11-30",
+  "maker": "ASO Atlas",
+  "makerUrl": "https://asoatlas.com/"
+}
